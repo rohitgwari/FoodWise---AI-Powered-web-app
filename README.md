@@ -63,13 +63,4 @@ Quantity estimation algorithm for food planning
 
 🌱 Environment: Lower food wastage & landfill load
 
-🚀 Getting Started
-1. Clone Repository
-git clone https://github.com/your-username/FoodWise.git
-cd FoodWise
 
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Run App
-streamlit run FoodWise.py
