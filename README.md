@@ -1,4 +1,4 @@
-FoodWise – AI-Powered Food Waste Reduction & Sharing Platform
+## FoodWise – AI-Powered Food Waste Reduction & Sharing Platform
 📌 Problem Statement
 
 Every day, households, hostels, and restaurants throw away large amounts of edible food — either because they overestimated the quantity needed, or they didn’t know what to do with leftovers.
