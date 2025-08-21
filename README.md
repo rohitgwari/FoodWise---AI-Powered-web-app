@@ -41,26 +41,24 @@ Location-based matching via Google Maps API / Folium.
 
 Optional: Assign delivery to local volunteers or delivery partners.
 
-⚙️ Tech Stack
+#### Tech Stack
 
-Frontend/UI: Streamlit (quick build, clean UI)
+Frontend/UI: Streamlit (clean UI with tabs and forms)
 
-Backend/Database: SQLite for user & food data
+State Management: st.session_state for storing data during a session
 
-APIs: Spoonacular/Edamam (recipes), Google Maps API (location matching)
+#### Libraries:
 
-AI Components:
+pandas → for ingredient calculations and displaying tables
 
-NLP ingredient matching for recipe search
+math (minor use for calculations)
 
-Quantity estimation algorithm for food planning
+#### Impact
 
-🌍 Impact
+ Households: Save money and reduce food waste by turning leftovers into new meals.
 
-🏠 Households: Save money, reduce waste
+ Communities: Enable easy sharing of surplus food with neighbors or peers.
 
-👨‍👩‍👧‍👦 Communities: Connect surplus food with those in need
-
-🌱 Environment: Lower food wastage & landfill load
+ Environment: Reduce landfill waste and promote sustainability through mindful cooking and sharing.
 
 
